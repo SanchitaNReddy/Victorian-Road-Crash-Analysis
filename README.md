@@ -15,5 +15,6 @@ This project analyzes and visualizes road crash data from Victoria, Australia, s
 
 ## Tools and Technologies
 1. Tableau Public/Desktop: For data visualization and exploration.
-2. Python/R/Excel: For data cleaning and preprocessing.
-3. Dataset Source: Vehicle Road Crash Data from the Victorian Department of Transport and Planning.
+2. R Shiny: Interactive dashboard
+3. Python/R/Excel: For data cleaning and preprocessing.
+4. Dataset Source: Vehicle Road Crash Data from the Victorian Department of Transport and Planning.
